@@ -1,1 +1,3 @@
 theme: jekyll-theme-tactile
+title : ChorusText Home
+description : ChorusText is an open assistive device that aims to turn text-editing from a visual task into a tactile+audial task. It is built with Arduino Linux Single-board computer and text-to-speech software.
